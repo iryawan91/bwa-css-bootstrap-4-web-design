@@ -10,3 +10,13 @@
     background: #be8125;
     
 }
+
+.hero h1{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+
+.hero {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
