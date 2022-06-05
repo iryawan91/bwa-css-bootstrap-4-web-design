@@ -21,7 +21,8 @@
 }
 
 .btn-secondary:hover{
-    background: #be8125;
+    background: none;
+    color:#ff9900;
     
 }
 
